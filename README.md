@@ -28,3 +28,10 @@ cp SKILL.md ~/.claude/skills/ambitious/SKILL.md
 
 1. Felix 原文 Altitude / Depth / Range + Depth prompt  
 2. 原帖高热直评：不合理目标、相邻公开数据、外部验证、反模式
+
+## 来源之一：微信「小林coding」照录
+
+- [`ambitious-skill-from-xiaolin.md`](./ambitious-skill-from-xiaolin.md) — 微信文全文照录的 skill（含出处）
+- [`variants/xiaolin/SKILL.md`](./variants/xiaolin/SKILL.md) — 可直接安装的正文
+
+来源：https://mp.weixin.qq.com/s/t8kiWE9xXq7aP4u29L_Ydw
